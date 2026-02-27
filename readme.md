@@ -51,5 +51,5 @@ Our research agenda focuses on today’s major social challenges: climate change
 
 | What?                 | Link |
 |-----------------------|------|
-| Nature Value Explorer |[https://github.com/orgs/URBREATH/repositories ](https://www.natuurwaardeverkenner.be/)     |
+| Nature Value Explorer |[NVE webpage](https://www.natuurwaardeverkenner.be/)     |
 | VITO                  |https://vito.be/en      |
